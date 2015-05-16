@@ -85,7 +85,7 @@ header .logo a img {
     height: 100%;  
     opacity: .4; 
     z-index: -1;
-    background: url('../img/header-background.jpeg') center center; 
+    background: url('../img/header-background.jpg') center center; 
     background-size: cover;
 }
 
